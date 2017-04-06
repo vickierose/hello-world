@@ -1,2 +1,2 @@
 # hello-world
-solving tasks
+different not really important stuff: playgrounds, study tasks, etc
